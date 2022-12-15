@@ -1,0 +1,17 @@
+.container-All{
+   padding: 0 0;
+   margin: 0 0;
+   background-color: #030303;
+}
+.container-Home{
+   width: 100%;
+   min-height: 100vh;
+   padding: 0 0;
+   margin: 0 0;
+   overflow-y: hidden;
+   overflow-x: hidden;
+}
+.container-Service{
+   min-height: 100vh;
+   padding: 3em 0;
+}

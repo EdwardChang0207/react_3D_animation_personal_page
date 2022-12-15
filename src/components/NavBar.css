@@ -1,0 +1,21 @@
+.Nav-body{
+    padding: 0 30px;
+    margin: 0;
+}
+.btn-Signup{
+    background-color: white;
+    color: black;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+.btn-padding{
+    padding: 0 15px;
+}
+.text-bold{
+    font-weight: bold;
+}
+.container-Page{
+    min-height: 100vh;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
